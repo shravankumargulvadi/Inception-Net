@@ -1,5 +1,7 @@
 # Assignment-7
 This repository contains the contents of EVA Assignment 7
+
+
 |Layers       |Kernel|Padding|Stride|Channel_in|Channel_out|Jump|Receptive Field|
 |-------------|------|-------|------|----------|-----------|----|---------------|
 |Input        |      |1      |1     |224       |224        |1   |1              |
