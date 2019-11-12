@@ -1,4 +1,5 @@
-# Assignment-7
+# Inception Network
+## EVA Assignment-7
 This repository contains the contents of EVA Assignment 7
 
 
